@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1056619201281",
+    "firebase_url": "https://myapplicationwithfirebas-7bdcb.firebaseio.com",
+    "project_id": "myapplicationwithfirebas-7bdcb",
+    "storage_bucket": "myapplicationwithfirebas-7bdcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056619201281:android:e96d284517e1ec88",
+        "android_client_info": {
+          "package_name": "truckpad.com.myapplicationwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056619201281-b078417v04h80b0tfb46nss8r5sg0fvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "truckpad.com.myapplicationwithfirebase",
+            "certificate_hash": "26322883cba156e96c9caa01c4dc85007b6e1de3"
+          }
+        },
+        {
+          "client_id": "1056619201281-no3jsolndrvg84il40ptuliei7v90qfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIa4Y9-rpoZroh2WsWXKIIgzwzwQIReoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056619201281-no3jsolndrvg84il40ptuliei7v90qfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
